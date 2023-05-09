@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity implements  View.OnClickList
         Fragmento1 fragmento1 = new Fragmento1();
         Fragment2 fragmento2 = new Fragment2();
 
-        getSupportFragmentManager().beginTransaction().add(R.id.contenedor, fragmento1);
+        getSupportFragmentManager().beginTransaction().add(R.id.contenedor, fragmento1).commit();
         btn1 = findViewById(R.id.btnFragmento1);
         btn2 = findViewById(R.id.btnFragmento2);
 
