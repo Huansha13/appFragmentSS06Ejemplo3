@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SS06Ejemplo03</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnNameFrag1">Fragmento 1</string>
+    <string name="btnNameFrag2">Fragmento 2</string>
+    <string name="mensajeFragmentoo1">Mensaje de fragmento 2</string>
+    <string name="mensajeFragmentoo2"> Hola Fragmento 1 </string>
+</resources>
